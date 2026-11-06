@@ -9,8 +9,8 @@
 <br/>
 
 <a href="https://github.com/zaid-ik"><img src="https://img.shields.io/badge/GitHub-zaid--ik-0d1117?style=flat-square&logo=github&logoColor=5eead4&labelColor=0d1117&color=21262d"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=38bdf8&labelColor=0d1117&color=21262d"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0d1117?style=flat-square&logo=gmail&logoColor=5eead4&labelColor=0d1117&color=21262d"/></a>
+<a href="https://www.linkedin.com/in/zaid-imtiaz-khan-a21b17344/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat-square&logo=linkedin&logoColor=38bdf8&labelColor=0d1117&color=21262d"/></a>
+<a href="mailto:zaid9122373@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-0d1117?style=flat-square&logo=gmail&logoColor=5eead4&labelColor=0d1117&color=21262d"/></a>
 <img src="https://komarev.com/ghpvc/?username=zaid-ik&label=Profile%20views&color=0f766e&style=flat-square&labelColor=0d1117"/>
 
 </div>
@@ -79,23 +79,6 @@ people can actually use. I learn by building, and I document as I go.
 
 <br/>
 
-## ▍Featured Projects
-
-<!-- Replace REPO_NAME_1 / REPO_NAME_2 with your best repositories -->
-
-<div align="center">
-
-<a href="https://github.com/zaid-ik/REPO_NAME_1">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-ik&repo=REPO_NAME_1&bg_color=0d1117&title_color=5eead4&text_color=c9d1d9&icon_color=38bdf8&border_color=21262d&border_radius=12" />
-</a>
-<a href="https://github.com/zaid-ik/REPO_NAME_2">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=zaid-ik&repo=REPO_NAME_2&bg_color=0d1117&title_color=5eead4&text_color=c9d1d9&icon_color=38bdf8&border_color=21262d&border_radius=12" />
-</a>
-
-</div>
-
-<br/>
-
 ## ▍GitHub at a Glance
 
 <div align="center">
@@ -110,20 +93,6 @@ people can actually use. I learn by building, and I document as I go.
 <br/><br/>
 
 <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaid-ik&bg_color=0d1117&color=5eead4&line=38bdf8&point=e6edf3&area=true&area_color=0f766e&hide_border=true&radius=12" />
-
-</div>
-
-<br/>
-
-## ▍Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaid-ik/zaid-ik/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaid-ik/zaid-ik/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/zaid-ik/zaid-ik/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
 
 </div>
 
