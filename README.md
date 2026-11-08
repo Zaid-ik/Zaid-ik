@@ -79,29 +79,8 @@ people can actually use. I learn by building, and I document as I go.
 
 <br/>
 
-## ▍GitHub at a Glance
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zaid-ik&show_icons=true&count_private=true&hide_border=false&border_color=21262d&border_radius=12&bg_color=0d1117&title_color=5eead4&text_color=c9d1d9&icon_color=38bdf8&ring_color=5eead4" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaid-ik&layout=compact&hide_border=false&border_color=21262d&border_radius=12&bg_color=0d1117&title_color=5eead4&text_color=c9d1d9" />
-
-<br/><br/>
-
-<img width="97%" src="https://streak-stats.demolab.com?user=zaid-ik&background=0D1117&border=21262D&borderRadius=12&ring=5EEAD4&fire=38BDF8&currStreakNum=E6EDF3&currStreakLabel=5EEAD4&sideNums=E6EDF3&sideLabels=9FB3C8&dates=6E7F91&stroke=21262D" />
-
-<br/><br/>
-
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaid-ik&bg_color=0d1117&color=5eead4&line=38bdf8&point=e6edf3&area=true&area_color=0f766e&hide_border=true&radius=12" />
-
-</div>
-
-<br/>
-
-<div align="center">
 
 > *“Learn something new. Build something useful. Repeat.”*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,55:12263f,100:0f766e&height=110&section=footer"/>
 
 </div>
