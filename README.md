@@ -83,17 +83,17 @@ people can actually use. I learn by building, and I document as I go.
 > *“Learn something new. Build something useful. Repeat.”*
 
 
-</div>
+
+## ▍GitHub Activity & Tracking
 
 <div align="center">
 
-<!-- GitHub Contribution Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaid-ik&bg_color=0d1117&color=5eead4&line=0f766e&point=5eead4&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zaid-ik&theme=github-compact&hide_border=true" />
 
 <br/>
 
-<!-- GitHub Streak Stats -->
-<img height="170" src="https://streak-stats.demolab.com?user=zaid-ik&theme=github-dark-blue&hide_border=true&ring=5eead4&fire=5eead4&currStreakLabel=5eead4" />
+<img src="https://streak-stats.demolab.com/?user=zaid-ik&theme=dark&hide_border=true" />
 
 </div>
+
 
